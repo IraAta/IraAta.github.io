@@ -1,0 +1,31 @@
+[id = top] {
+	width: 100%;
+	font-size: 14px; 
+	color: white;
+	text-align: center;
+	background-color: darkblue;
+	height: 100%;
+}
+[id = bottom] {
+	color: blue;
+
+}
+[id = leftSide] {
+	width: 30%;
+	font-size: 14px;
+	color:white;
+	background:grey;
+}
+body {
+	font-family: Arial;
+}
+body img {
+text-align: center;
+width: 100px;
+height: 100px;
+border: 3px solid lightgrey;
+border-radius: 30px;
+}
+[id = line]{
+	text-decoration: underline;
+}
